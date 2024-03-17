@@ -4,4 +4,4 @@
 > 重启一体机
 > 运行vc_redist.x64.exe
 > 等待完成后就可以运行**ramdon name.exe**啦！
-~~ ps：实际上我打错了，应该是random name ~~
+~~ps：实际上我打错了，应该是random name~~
