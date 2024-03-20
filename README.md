@@ -39,5 +39,5 @@
 ### 制作人：
 >explorer>[[github]](https://github.com/explorer-exe-bilibili/),[[bilibili]](https://space.bilibili.com/1129475142)可以的话给个**关注**可以吗qwq
 ### **关于更新**
->预计每周更新一次，将会发布[release](https://github.com/explorer-exe-bilibili/ramdon_name/release)
+>预计每周更新一次，将会发布[release](https://github.com/explorer-exe-bilibili/ramdon_name/releases)
 >国内网络可以访问[这里](http://52.184.81.18:35244/)***不能保证随时在线***
